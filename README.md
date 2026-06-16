@@ -1,5 +1,5 @@
 # AI-Driven Drone Autonomy: A Comprehensive Study
-
+![Drone Architecture](drone-schema.png)
 Welcome to my aerospace engineering research repository. Over the next few months, I am mapping out how machine learning algorithms optimize flight paths, process sensor fusion data, and interact with fluid dynamics (CFD) in autonomous unmanned aerial vehicles (UAVs).
 
 ## 🚀 Key Research Areas
