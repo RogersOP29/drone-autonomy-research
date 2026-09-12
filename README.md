@@ -17,7 +17,7 @@ Welcome to my aerospace engineering research repository. Over the next few month
 ## 📚 Curated Resources & Papers
 Here are the foundational materials I am utilizing to build my domain knowledge before beginning hands-on simulation coding:
 
-* **Video Analysis:** [How Drones Fly Using Computer Vision](https://youtu.be/tDWVKZgLYfk) *(Replace with a real video link you find!)*
+* **Video Analysis:** [How Drones Fly Using Computer Vision](https://youtu.be/tDWVKZgLYfk) 
 * **Open Dataset:** [NASA Prognostics Data Repository](https://www.nasa.gov) - Used for tracking battery and engine degradation.
 ## 🚀 AI in Aerospace: 3 Key Transformations
 
